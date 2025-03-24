@@ -1,0 +1,43 @@
+.flex{
+    display: flex;
+}
+img{
+    width:200px;
+    height: 200px;
+    margin: 20px;
+}
+.box{
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid rgb(160, 157, 157);
+}
+button{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.background-box{
+    background-color: yellow;
+    border: 1px solid black;
+}
+.button{
+    justify-content: center;
+    display: flex;
+}
+
+.container{
+    
+    align-items: center;
+    justify-content: center;
+}
+.result{
+    height: 300px;
+    width:300px;
+    border-radius:10px ;
+}
+#result{
+    display: flex;
+    justify-content: center;
+}
